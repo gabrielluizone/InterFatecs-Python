@@ -1,2 +1,4 @@
-# import-time
-Import Time as Time | InterFatecs
+# import `time` as time
+> Import Time as Time | InterFatecs
+
+![](importtime.png)
